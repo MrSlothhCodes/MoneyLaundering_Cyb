@@ -10,6 +10,14 @@ Instead of relying only on traditional rule-based checks, we integrate multiple 
 - run moneyloun.py
 - go to localhost 8080
 
+
+
+
+## Screenshots
+<img width="1300" height="851" alt="image" src="https://github.com/user-attachments/assets/a628074c-4193-4855-ae9d-9f981b6c2712" />
+
+<img width="1312" height="803" alt="image" src="https://github.com/user-attachments/assets/3392ef6c-411e-4ad5-a488-c3d019430ff4" />
+
 ## Features
 
 - **Dashboard Overview:**
@@ -26,12 +34,6 @@ Instead of relying only on traditional rule-based checks, we integrate multiple 
 - **Responsive UI:**
 	- Mobile-friendly design using Tailwind CSS.
 	- Modern UI components for a seamless experience.
-
-
-## Screenshots
-<img width="1300" height="851" alt="image" src="https://github.com/user-attachments/assets/a628074c-4193-4855-ae9d-9f981b6c2712" />
-
-<img width="1312" height="803" alt="image" src="https://github.com/user-attachments/assets/3392ef6c-411e-4ad5-a488-c3d019430ff4" />
 
 
 ## Project Structure
