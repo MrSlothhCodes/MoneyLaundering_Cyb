@@ -2,6 +2,14 @@
 Our solution is an ML based Money Laundering Detection System that analyzes financial transactions in batches and automatically identifies suspicious behaviors
 Instead of relying only on traditional rule-based checks, we integrate multiple algorithmic detection techniques to identify laundering patterns.
 
+## How to Run
+- **Install All the require Dependencies first**
+- Open ** terminal in riskguard-dash-main**
+- type "npm i" (to install node modules)
+- type "npm dev run"
+- run moneyloun.py
+- go to localhost 8080
+
 ## Features
 
 - **Dashboard Overview:**
