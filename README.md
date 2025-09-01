@@ -4,7 +4,7 @@ Instead of relying only on traditional rule-based checks, we integrate multiple 
 
 ## How to Run
 - **Install All the require Dependencies first**
-- Open ** terminal in riskguard-dash-main**
+- Open **terminal in riskguard-dash-main**
 - type "npm i" (to install node modules)
 - type "npm dev run"
 - run moneyloun.py
